@@ -108,4 +108,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 - **Authors**: Saha Reno (<reno.saha39@gmail.com>), Koushik Roy (<rkoushik755@gmail.com>)  
 - **GitHub**: https://github.com/SahaReno/StorjLedger  
-- **Report**: docs/report.pdf  
+- **Report**: Will be available soon.  
